@@ -62,10 +62,13 @@ footer{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 40px;
+  padding-left: 40px;
 }
 
 .logo_container{
   width: 30%;
+  margin: 0;
 }
 .logo_container img{
   width: 50%;
@@ -76,4 +79,9 @@ footer{
   display: inherit;
   justify-content: space-between;
   padding-right: 60px;
+}
+.footer-links a{
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
 }
