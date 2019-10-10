@@ -35,18 +35,19 @@ header img{
 
 .call-to-arms{
   text-align: center;
+  margin: 8rem 0;
 }
 
 .email{
   height: 44px;
-  width: 400px;
+  width: 300px;
   border-radius: 10px;
-  border: 1px solid hsl(208, 11%, 55%);
+  border: 1px solid hsla(208, 11%, 55%, 0.2);
 }
 
 .form-email button{
-  border: 1px solid red;
-  padding: 15px 40px;
+  padding: 15px 50px;
+  border: none;
   border-radius: 8px;
   background-color: hsl(322, 100%, 66%);
   color: white;
