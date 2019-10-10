@@ -57,3 +57,23 @@ header img{
 footer{
   background-color: hsl(192, 100%, 9%);
 }
+
+.logo-links{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo_container{
+  width: 30%;
+}
+.logo_container img{
+  width: 50%;
+}
+
+.footer-links{
+  width: 50%;
+  display: inherit;
+  justify-content: space-between;
+  padding-right: 60px;
+}
