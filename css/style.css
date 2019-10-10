@@ -52,3 +52,7 @@ header img{
   color: white;
   font-family: 'Open Sans', sans-serif;
 }
+
+footer{
+  background-color: hsl(192, 100%, 9%);
+}
