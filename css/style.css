@@ -213,6 +213,20 @@ footer{
     height: 150px;
     padding-left: 15px;
     padding-right: 0;
-
   }
+
+  .social-links{
+    padding: 0;
+    display: initial;
+  }
+  .social-links figure{
+    margin: 30px 0;
+  }
+
+  .social-links p{
+    text-align: center;
+    padding-bottom: 30px;
+    margin: 0;
+  }
+
 }
