@@ -161,4 +161,20 @@ footer{
   header img {
     width: 30%;
   }
+  .hero{
+    padding: 0 2rem;
+
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+
+  .article-hero p{
+    width: 90%;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+
 }
