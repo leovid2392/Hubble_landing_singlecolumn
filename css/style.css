@@ -177,4 +177,15 @@ footer{
     margin-bottom: 25px;
   }
 
+  .email{
+    width: 80%;
+    padding-left: 15px;
+    margin-bottom: 25px;
+
+  }
+
+  .form-email button{
+    width: 87%;
+  }
+
 }
