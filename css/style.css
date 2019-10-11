@@ -78,6 +78,10 @@ header img{
   color: hsl(208, 11%, 55%);
   font-size: 20px;
 }
+.article-hero img{
+  width: 90%;
+}
+
 
 .call-to-arms{
   text-align: center;
@@ -151,4 +155,8 @@ footer{
 .social-links figure{
   margin: 0;
   /* padding-left: 40px; */
+}
+
+@media screen and (max-width: 375px){
+  
 }
